@@ -1,0 +1,21 @@
+{
+    "name": "Domain Checker",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "A cool extension for domain checking",
+    "author": "Md. Sakir Ahmed",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Domain checker",
+      "default_icon": "assets/images/icons/48.png" 
+    },
+    "icons": {
+      "16": "assets/images/icons/16.png",
+      "24": "assets/images/icons/24.png",
+      "32": "assets/images/icons/32.png",
+      "48": "assets/images/icons/48.png",
+      "128": "assets/images/icons/128.png"
+    },
+    "permissions": ["activeTab"]
+
+}
